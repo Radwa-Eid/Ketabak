@@ -1,0 +1,16 @@
+<svg width="42" height="25" viewBox="0 0 42 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Icon Daily Analysis">
+<path id="Vector" d="M28.5059 1.94531H40.2861V13.7255" stroke="url(#paint0_linear_1425_41521)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M40.2857 1.94531L23.6462 18.5849C23.3709 18.8547 23.0008 19.0058 22.6154 19.0058C22.2299 19.0058 21.8599 18.8547 21.5846 18.5849L14.811 11.8112C14.5357 11.5414 14.1657 11.3903 13.7802 11.3903C13.3948 11.3903 13.0247 11.5414 12.7495 11.8112L2 22.5607" stroke="url(#paint1_linear_1425_41521)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_1425_41521" x1="30.511" y1="16.1505" x2="48.5246" y2="1.21881" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FF006E"/>
+<stop offset="1" stop-color="#FFBE0B"/>
+</linearGradient>
+<linearGradient id="paint1_linear_1425_41521" x1="8.51683" y1="26.8044" x2="37.8272" y2="-18.3163" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FF006E"/>
+<stop offset="1" stop-color="#FFBE0B"/>
+</linearGradient>
+</defs>
+</svg>
